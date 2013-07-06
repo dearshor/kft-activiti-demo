@@ -9,3 +9,6 @@
 .idea
 rebel.xml
 /*.eml
+/.settings/
+/.classpath
+/.project
